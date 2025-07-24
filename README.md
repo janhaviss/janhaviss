@@ -22,7 +22,7 @@
 - 🏡 [Online Home Services](https://github.com/janhaviss/HomeServices)  
   A user-friendly platform connecting people with skilled home service providers.
 
-- 🧪 [Online Pathology Services](https://github.com/your-other-repo)  
+- 🧪 [Online Pathology Services](https://github.com/janhaviss/HomeServices)  
   Digital platform for managing pathology test bookings and reports.
 
 ---
