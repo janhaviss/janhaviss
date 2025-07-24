@@ -1,10 +1,38 @@
-# Hi there, I'm Janhavi Singh!
+# Hi, I’m Janhavi Singh
 
-🎓 I'm a Master's student in Computer Science, passionate about building real-world applications that solve everyday problems.  
-💻 Currently working on web apps using **Flask**, **Python**, and other backend technologies.  
-🌱 Always learning — right now exploring APIs, cloud deployment, and full-stack workflows.  
+🎓 CS Master's Student | 💻 Full-Stack Web Developer  
+🚀 Passionate about building projects that solve real-world problems  
+🌱 Currently learning React, REST APIs, and backend integration  
+📌 Recent Project: [Online Home Services](https://github.com/janhaviss/2048_Game)  
+🤝 Open to collaboration and internships!
 
-### 🔧 Tech Stack
-- 💻 Python, Flask, JavaScript
-- 🛠 Git, GitHub, VS Code
-- 🌐 HTML/CSS, Bootstrap,PHP
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Java, Python, PHP, JavaScript, SQL
+- **Frameworks:** Flask, Bootstrap
+- **Tools:** Git, GitHub, VS Code, Composer
+- **Database:** MySQL
+
+---
+
+## 🔥 Projects
+
+- 🏡 [Online Home Services](https://github.com/janhaviss/HomeServices)  
+  A user-friendly platform connecting people with skilled home service providers.
+
+- 🧪 [Online Pathology Services](https://github.com/your-other-repo)  
+  Digital platform for managing pathology test bookings and reports.
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: [linkedin.com/in/janhavisingh2024](http://www.linkedin.com/in/janhavisingh2024)
+- Email: janhavi1102singh@gmail.com
+
+---
+
+> “Learn continuously. There’s always one more thing to learn.” – Steve Jobs
+
