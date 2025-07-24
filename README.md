@@ -3,7 +3,7 @@
 🎓 CS Master's Student | 💻 Full-Stack Web Developer  
 🚀 Passionate about building projects that solve real-world problems  
 🌱 Currently learning React, REST APIs, and backend integration  
-📌 Recent Project: [Online Home Services](https://github.com/janhaviss/2048_Game)  
+📌 Recent Project: [2048 Web Game](https://github.com/janhaviss/2048_Game)  
 🤝 Open to collaboration and internships!
 
 ---
