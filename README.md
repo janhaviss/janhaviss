@@ -10,8 +10,8 @@
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Java, Python, PHP, JavaScript, SQL
-- **Frameworks:** Flask, Bootstrap
+- **Languages:** Python, PHP, JavaScript, SQL
+- **Frameworks:** Flask, Bootstrap, Tailwind, React.js
 - **Tools:** Git, GitHub, VS Code, Composer
 - **Database:** MySQL
 
